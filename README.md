@@ -1,4 +1,4 @@
-https://wellesleyfrc.github.io/Database/
+https://wellesleyfrc.github.io/Ultraviolet-Database/
 
 ## Welcome to GitHub Pages
 
